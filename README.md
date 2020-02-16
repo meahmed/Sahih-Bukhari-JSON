@@ -16,3 +16,5 @@ This is the folder structure and file format
   }
   ]
 }
+
+Also used a progress bar in the console for a better view :)
